@@ -18,14 +18,14 @@ Reviewer: Tim Sutton
 
 Our software is, and always will be, available free of charge if downloaded from QGIS.org.
 
-The project is a result of a huge effort and social contribution from many community members who volunteer their time and expertise. In addition, many businesses, government agencies and commercial entities have contributed to the development of QGIS. They do this either to ensure that QGIS meets their specific needs or to contribute to and accelerate the huge social impact that is realised by making a tool such as QGIS freely available. Our goal is the betterment of society through informed spatial decision making. If you are able, we gently request that you support our work.
+The project is a result of a huge effort and social contribution from many community members who volunteer their time and expertise. In addition, many businesses, government agencies and commercial en[...]
 
 Whether you choose to donate or not, we hope that you enjoy using our labour of love and encourage you to share and spread your downloaded copy far and wide so that others may enjoy it too.
 
 Our very best regards!
 
 <p class="is-size-7 has-text-weight-medium">
-Donations to QGIS might be tax-deductible in some countries. Please refer to your local tax office for details. If you want to tax-deduct as a German company or organization, please donate through the <a href="https://qgis.de/doku.php/verein/spenden">German QGIS user group</a>. They can issue a payment confirmation as a tax-exempt German association.
+Donations to QGIS might be tax-deductible in some countries. Please refer to your local tax office for details. If you want to tax-deduct as a German company or organization, please donate through the[...]
 </p>
 
 {{< rich-content-end >}}
@@ -46,6 +46,8 @@ Donations to QGIS might be tax-deductible in some countries. Please refer to you
 {{< platform-content-start platform="macos" >}}
 ## macOS
 {{< download-macos >}}
+
+Note: There are no QGIS 3.40 LTR builds available on macOS. QGIS 3.44 is stable and has been designated as the future Long Term Release (LTR); therefore 3.44 is the recommended version for macOS users.
 
 Alternatively, it is also possible to install QGIS via MacPorts, see the [MacPorts Installing Instructions]({{< ref "resources/installation-guide/#macports" >}})
 
@@ -102,7 +104,7 @@ You can also obtain the source code by cloning or forking our <a href="https://g
 
 {{< platform-content-start platform="example" >}}
 ## Example Datasets
-For testing and learning purposes, [a sample dataset is available](https://docs.qgis.org/latest/en/docs/user_manual/introduction/getting_started.html#downloading-sample-data), which contains collections of data from different sources and in different formats.
+For testing and learning purposes, [a sample dataset is available](https://docs.qgis.org/latest/en/docs/user_manual/introduction/getting_started.html#downloading-sample-data), which contains collectio[...]
 {{< platform-content-end >}}
 
 {{< download-platform-selector-end >}}
